@@ -7,5 +7,11 @@ public class Application {
         System.out.println("Hello word");
         Calculator calculator = new Calculator();
         System.out.println(calculator.sum(5,10));
+        System.out.println(calculator.substract(5,10));
+        System.out.println(calculator.divide1(5,10));
+        System.out.println(calculator.multiply(5,10));
+
+
+
     }
 }
