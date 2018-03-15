@@ -7,5 +7,6 @@ public class Application {
         System.out.println("Hello word");
         Calculator calculator = new Calculator();
         System.out.println(calculator.sum(5,10));
+
     }
 }
