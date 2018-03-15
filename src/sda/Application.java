@@ -12,6 +12,7 @@ public class Application {
         System.out.println(calculator.substract(randomGenerato.getSmallNumber(), randomGenerato.getBigNumber()));
         System.out.println(calculator.divide1(randomGenerato.getSmallNumber(), randomGenerato.getBigNumber()));
         System.out.println(calculator.multiply(randomGenerato.getSmallNumber(), randomGenerato.getBigNumber()));
+        System.out.println(calculator.factorial(10));
 
 
 
